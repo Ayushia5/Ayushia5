@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ayushi Aggarwal 👋</h1>
+<h1 align="center">Hi there, I'm Ayushi Aggarwal </h1>
 
 <p align="center">
   <em>B.Tech IT Student at GGSIPU · Open Source Contributor · ML Enthusiast</em>
