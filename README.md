@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ayushi Aggarwal </h1>
+<h1 align="center">Ayushi Aggarwal </h1>
 
 <p align="center">
   <em>B.Tech IT Student at GGSIPU · Open Source Contributor · ML Enthusiast</em>
@@ -17,10 +17,10 @@
 
 ## 🚀 About Me
 
-- 🎓 1st year B.Tech in Information Technology at **GGSIPU, Delhi**
-- 🤖 Passionate about **Machine Learning** and **AI**
-- 🌱 Currently building my foundations in **Data Science** and **Open Source**
-- 💡 Contributor to the **Open Source** and **AI Agents** tracks at **GSSoC'26**
+- 1st year B.Tech in Information Technology at **GGSIPU, Delhi**
+- Passionate about **Machine Learning** and **AI**
+- Currently building my foundations in **Data Science** and **Open Source**
+- Contributor to the **Open Source** and **AI Agents** tracks at **GSSoC'26**
 
 ---
 
@@ -73,6 +73,4 @@ A healthcare website designed to make health information and resources accessibl
 
 ---
 
-<p align="center">
-  <em>⭐️ Feel free to check out my repositories below!</em>
 </p>
