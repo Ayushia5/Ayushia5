@@ -49,7 +49,7 @@
 
 ### GirlScript Summer of Code (GSSoC'26) | *Active Contributor*
 - Contributing to the **Open Source** and **AI Agents** tracks
-- Collaborating with maintainers using Git/GitHub workflows — issue tracking, PRs, and code reviews
+- Collaborating with maintainers using Git/GitHub workflows, issue tracking, PRs, and code reviews
 
 ---
 
@@ -59,18 +59,4 @@
 A healthcare website designed to make health information and resources accessible.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushia5&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushia5&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushia5&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
 </p>
