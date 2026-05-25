@@ -50,6 +50,7 @@
 ### GirlScript Summer of Code (GSSoC'26) | *Active Contributor*
 - Contributing to the **Open Source** and **AI Agents** tracks
 - Collaborating with maintainers using Git/GitHub workflows, issue tracking, PRs, and code reviews
+- Checkout my GSSoC profile: https://gssoc.girlscript.org/profile/8cc279dc-429d-4c16-9868-dc588f595e4a
 
 ---
 
