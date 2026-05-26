@@ -19,7 +19,7 @@
 
 - 1st year B.Tech in Information Technology at **GGSIPU, Delhi**
 - Passionate about **Machine Learning** and **AI**
-- Currently building my foundations in **Data Science** and **Open Source**
+- Currently building my foundations in **Web Development** and **Open Source**
 - Contributor to the **Open Source** and **AI Agents** tracks at **GSSoC'26**
 
 ---
