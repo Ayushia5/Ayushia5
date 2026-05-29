@@ -1,7 +1,7 @@
 <h1 align="center">Ayushi Aggarwal </h1>
 
 <p align="center">
-  <em>B.Tech IT Student at GGSIPU · Open Source Contributor · Hack For Green Bharat Finalist</em>
+  <em>BTech IT GGSIPU'29 · Open Source Contributor · Hack For Green Bharat Finalist</em>
 </p>
 
 <p align="center">
