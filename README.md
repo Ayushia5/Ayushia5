@@ -80,14 +80,15 @@ A healthcare web app making health information and resources more accessible.
 ---
 
 ## 📈 GitHub Stats
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushia5&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushia5&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Ayushia5&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushia5&theme=tokyo-night&hide_border=true" />
+</p>
 ---
-
+ 
 <p align="center">
   <i>Open to collaborations, open source contributions, and learning opportunities.</i>
 </p>
