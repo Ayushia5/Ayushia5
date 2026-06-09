@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ayushi Aggarwal 👋</h1>
+<h1 align="center">Hi, I'm Ayushi Aggarwal </h1>
 
 <p align="center">
   B.Tech IT · GGSIPU Delhi '29 &nbsp;|&nbsp; Open Source Contributor · GSSoC'26 &nbsp;|&nbsp; AI/ML Enthusiast
