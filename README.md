@@ -73,9 +73,9 @@ First-year B.Tech IT student at GGSIPU, Delhi. I contribute to real-world open s
 ### 🏅 GSSoC'26 Badges
 
 <p align="left">
-  <img src="assets/badges/power-contributor.png" width="100" title="Power Contributor — Rare" />
-  <img src="assets/badges/rising-star.png" width="100" title="Rising Star — Uncommon" />
-  <img src="assets/badges/consistent.png" width="100" title="Consistent — Uncommon" />
+  <img src="assets/badge/power-contributor.png" width="100" title="Power Contributor — Rare" />
+  <img src="assets/badge/rising-star.png" width="100" title="Rising Star — Uncommon" />
+  <img src="assets/badge/consistent.png" width="100" title="Consistent — Uncommon" />
 </p>
 
 ---
