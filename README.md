@@ -97,7 +97,4 @@ A healthcare web app making health information and resources more accessible.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushia5&theme=tokyo-night&hide_border=true" />
 </p>
- 
-<p align="center">
-  <i>Open to collaborations, open source contributions, and learning opportunities.</i>
-</p>
+
