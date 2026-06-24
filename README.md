@@ -59,12 +59,14 @@ First-year B.Tech IT student at GGSIPU, Delhi. I contribute to real-world open s
 
 | Project | What I contributed | Stars |
 |---|---|---|
+| [GSoC-Org-Finder](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) | Watchlist filtering & timestamp fix features | ⭐ 168 |
+| [CommitPulse](https://github.com/JhaSourav07/commitpulse) | 3D isometric GitHub contribution monoliths platform — Next.js contributions | ⭐ 126 |
 | [Eventra](https://github.com/SandeepVashishtha/Eventra) | Event management platform — React frontend contributions | ⭐ 126 |
 | [Learnova](https://github.com/Premshaw23/Learnova) | Curriculum & attendance management platform | ⭐ 106 |
 | [AlgoScope](https://github.com/algoscope-hq/AlgoScope) | Interactive algorithm visualizer | ⭐ 40 |
 | [PUDUCAN-JIPMER](https://github.com/PUDUCAN-JIPMER/puducan-jipmer) | Cancer patient management platform (ICMR-sponsored) | ⭐ 29 |
 | [VoiceForge](https://github.com/itzzavdhesh/VoiceForge) | Assistive communication tool for speech-impaired users | ⭐ 4 |
-| [GSoC-Org-Finder](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) | Watchlist filtering & timestamp fix features | — |
+
 
 > 🔗 Full GSSoC contributor profile: [gssoc.girlscript.org/profile/...](https://gssoc.girlscript.org/profile/8cc279dc-429d-4c16-9868-dc588f595e4a)
 
