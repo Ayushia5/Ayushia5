@@ -77,7 +77,7 @@ First-year B.Tech IT student at GGSIPU, Delhi. I contribute to real-world open s
 <p align="left">
   <img src="assets/badge/champion.png" width="100" title="Champion — Legendary" />
   <img src="assets/badge/consistent.png" width="100" title="Consistent — Uncommon" />
-  <img src="assets/badge/prolific.png" width="100" title="Consistent — Epic" />
+  <img src="assets/badge/prolific.png" width="100" title="Prolific — Epic (50+ Merged PRs)" />
 </p>
 
 ---
