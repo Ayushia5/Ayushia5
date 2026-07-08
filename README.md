@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayushi Aggarwal </h1>
 
 <p align="center">
-  BTech IT · GGSIPU Delhi '29 &nbsp;|&nbsp; Open Source Contributor · GSSoC'26 &nbsp;|&nbsp; Learning Web Development
+  BTech IT · GGSIPU Delhi'29 &nbsp;|&nbsp; Open Source Contributor · GSSoC'26 &nbsp;|&nbsp; Learning Web Development
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 First-year B.Tech IT student at GGSIPU, Delhi. I contribute to real-world open source projects, build AI/ML experiments, and care about writing code that actually ships.
 
-- 🔧 **62+ PRs merged** across GSSoC'26 — Open Source & AI Agents tracks
+- 🔧 **62+ PRs merged** across GSSoC'26: Open Source & AI Agents tracks
 - 🏥 Built **Aarogya Path**, a healthcare accessibility web app
 - 🏆 **Hack For Green Bharat Finalist** · Microsoft Office
 - 🤖 **Co-Lead**, AI Masters Special Interest Group · IEEE Student Branch, GGSIPU
