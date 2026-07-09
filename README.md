@@ -20,13 +20,13 @@
 
 ## About Me
 
-First-year B.Tech IT student at GGSIPU, Delhi. I contribute to real-world open source projects, build AI/ML experiments, and care about writing code that actually ships.
+First-year BTech IT student at GGSIPU, Delhi. I contribute to real-world open source projects, build AI/ML experiments, and care about writing code that actually ships.
 
 - 🔧 **62+ PRs merged** across GSSoC'26: Open Source & AI Agents tracks
 - 🏥 Built **Aarogya Path**, a healthcare accessibility web app
 - 🏆 **Hack For Green Bharat Finalist** · Microsoft Office
 - 🤖 **Co-Lead**, AI Masters Special Interest Group · IEEE Student Branch, GGSIPU
-- 📚 Currently deepening: **DSA**, **C++**, and **React**
+- 📚 Currently deepening: **DSA** **C++** and **HTML**
 
 ---
 
