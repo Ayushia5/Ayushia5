@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ayushi Aggarwal </h1>
+<h1 align="center">Hey, I'm Ayushi Aggarwal </h1>
 
 <p align="center">
   BTech IT · GGSIPU Delhi'29 &nbsp;|&nbsp; Open Source Contributor · GSSoC'26 &nbsp;|&nbsp; Learning Web Development
@@ -20,7 +20,7 @@
 
 ## About Me
 
-First-year BTech IT student at GGSIPU, Delhi. I contribute to real-world open source projects, build AI/ML experiments, and care about writing code that actually ships.
+ BTech Sophomore at GGSIPU, New Delhi. I contribute to real-world open source projects, build AI/ML experiments, and care about writing code that actually ships. Currently working on ASTRA: Assessment Signal Triage & Risk Analysis, Protecting Trust in Every Examination.
 
 - 🔧 **62+ PRs merged** across GSSoC'26: Open Source & AI Agents tracks
 - 🏥 Built **Aarogya Path**, a healthcare accessibility web app
