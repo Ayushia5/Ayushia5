@@ -21,16 +21,16 @@
 ## About Me
 
  BTech Sophomore at GGSIPU, New Delhi. I contribute to real-world open source projects, build AI/ML experiments, and care about writing code that actually ships. 
-- **63+ PRs merged** across GSSoC'26: Open Source & AI Agents tracks
-- Built **Aarogya Path**, a healthcare accessibility web app
-- Designed and built a full-stack role-based **Business Management System** for a real printing firm
-- **Hack For Green Bharat Finalist** · Microsoft Office
-- Served as **Co-Lead**, AI Masters Special Interest Group · IEEE Student Branch, GGSIPU
-- Currently deepening: **DSA** **C++** and **HTML**
+- **63+ PRs merged** across GSSoC'26: Open Source & AI Agents tracks.
+- Built **Aarogya Path**, a healthcare accessibility web app.
+- Designed and built a full-stack role-based **Business Management System** for a real printing firm.
+- **Hack For Green Bharat Finalist** · Microsoft Office.
+- Served as **Co-Lead**, AI Masters Special Interest Group · IEEE Student Branch, GGSIPU.
+- Currently deepening: **Data Structures & Algorithms** and **Python**. 
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -73,7 +73,7 @@
 
 ---
 
-### 🏅 GSSoC'26 Badges
+### GSSoC'26 Badges
 
 <p align="left">
   <img src="assets/badge/champion.png" width="100" title="Champion — Legendary" />
@@ -91,8 +91,10 @@ A healthcare web app making health information and resources more accessible.
 [GitHub](https://github.com/Ayushia5/Aarogya-Path) · [Live Demo](https://aarogya-path.netlify.app/)
 
 ### Business Management Software
-Full-stack role-based business management system for a real printing firm, replacing a manual Excel workflow
-**Stack:** HTML · CSS · JavaScript · Node.js· Express · PostgreSQL/Prisma
+Full-stack role-based business management system for a real printing firm, replacing a manual Excel workflow.
+
+**Stack:** HTML · CSS · JavaScript · Node.js · Express · PostgreSQL/Prisma
+
 ---
 
 ## 📈 GitHub Stats
