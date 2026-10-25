@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ayushi Aggarwal </h1>
 
 <p align="center">
-  BTech IT · GGSIPU Delhi'29 &nbsp;|&nbsp; Open Source Contributor · GSSoC'26 &nbsp;|&nbsp; Learning Web Development
+  BTech IT · GGSIPU Delhi'29 &nbsp;|&nbsp; Open Source Contributor · GSSoC'26 &nbsp;|&nbsp; Learning AI/ML
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 
 ## About Me
 
- BTech Sophomore at GGSIPU, New Delhi. I contribute to real-world open source projects, build AI/ML experiments, and care about writing code that actually ships. Currently working on ASTRA: Assessment Signal Triage & Risk Analysis, Protecting Trust in Every Examination.
-
-- 🔧 **62+ PRs merged** across GSSoC'26: Open Source & AI Agents tracks
-- 🏥 Built **Aarogya Path**, a healthcare accessibility web app
-- 🏆 **Hack For Green Bharat Finalist** · Microsoft Office
-- 🤖 **Co-Lead**, AI Masters Special Interest Group · IEEE Student Branch, GGSIPU
-- 📚 Currently deepening: **DSA** **C++** and **HTML**
+ BTech Sophomore at GGSIPU, New Delhi. I contribute to real-world open source projects, build AI/ML experiments, and care about writing code that actually ships. 
+- **63+ PRs merged** across GSSoC'26: Open Source & AI Agents tracks
+- Built **Aarogya Path**, a healthcare accessibility web app
+- Designed and built a full-stack role-based **Business Management System** for a real printing firm
+- **Hack For Green Bharat Finalist** · Microsoft Office
+- Served as **Co-Lead**, AI Masters Special Interest Group · IEEE Student Branch, GGSIPU
+- Currently deepening: **DSA** **C++** and **HTML**
 
 ---
 
@@ -34,6 +34,7 @@
 
 **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
@@ -53,9 +54,9 @@
 
 ---
 
-## 🌍 Open Source — GSSoC'26
+## Open Source - GSSoC'26
 
-**62+ PRs merged** across diverse production repositories:
+**63+ PRs merged** across diverse production repositories:
 
 | Project | What I contributed | Stars |
 |---|---|---|
@@ -82,13 +83,16 @@
 
 ---
 
-## 💻 Original Projects
+## Original Projects
 
-### 🏥 Aarogya Path
+### Aarogya Path
 A healthcare web app making health information and resources more accessible.  
 **Stack:** HTML · CSS · JavaScript  
 [GitHub](https://github.com/Ayushia5/Aarogya-Path) · [Live Demo](https://aarogya-path.netlify.app/)
 
+### Business Management Software
+Full-stack role-based business management system for a real printing firm, replacing a manual Excel workflow
+**Stack:** HTML · CSS · JavaScript · Node.js· Express · PostgreSQL/Prisma
 ---
 
 ## 📈 GitHub Stats
