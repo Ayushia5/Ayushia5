@@ -92,7 +92,6 @@ A healthcare web app making health information and resources more accessible.
 
 ### Business Management Software
 Full-stack role-based business management system for a real printing firm, replacing a manual Excel workflow.
-
 **Stack:** HTML · CSS · JavaScript · Node.js · Express · PostgreSQL/Prisma
 
 ---
