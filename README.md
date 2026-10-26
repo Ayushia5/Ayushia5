@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ayushi Aggarwal </h1>
 
 <p align="center">
-  BTech IT · GGSIPU Delhi'29 &nbsp;|&nbsp; Open Source Contributor · GSSoC'26 &nbsp;|&nbsp; Learning AI/ML
+  BTech IT · GGSIPU Delhi '29 &nbsp;|&nbsp; Open Source Contributor · GSSoC'26 &nbsp;|&nbsp; Learning AI/ML
 </p>
 
 <p align="center">
