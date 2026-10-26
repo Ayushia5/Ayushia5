@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ayushi Aggarwal </h1>
 
 <p align="center">
-  BTech IT · GGSIPU Delhi '29 &nbsp;|&nbsp; Open Source Contributor · GSSoC'26 &nbsp;|&nbsp; Learning AI/ML
+  BTech IT · GGSIPU Delhi '29 &nbsp;|&nbsp; Open Source Contributor · GSSoC '26 &nbsp;|&nbsp; Learning AI/ML
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@
 
 ---
 
-## Open Source - GSSoC'26
+## Open Source - GSSoC '26
 
 **63+ PRs merged** across diverse production repositories:
 
@@ -73,7 +73,7 @@
 
 ---
 
-### GSSoC'26 Badges
+### GSSoC '26 Badges
 
 <p align="left">
   <img src="assets/badge/champion.png" width="100" title="Champion — Legendary" />
